@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TestApp",
-    "slug": "TestApp",
+    "slug": "kani",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "cb1f0d8a-d753-437c-8bf1-c424bafe30c6"
+      }
+    },
+    "owner": "kaniits-team"
   }
 }
