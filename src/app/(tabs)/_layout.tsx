@@ -31,7 +31,7 @@ export default function TabLayout() {
         options={{
           title: "About",
           tabBarIcon: ({ color, focused }) => (
-            <Feather name="filter" size={24} color="#209450" />
+            <Feather name="filter" size={24} color="#4e9420" />
           ),
         }}
       />
